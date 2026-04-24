@@ -1,0 +1,87 @@
+Privacy Policy for DaduTag
+Effective Date: April 24, 2026 Last Updated: April 24, 2026
+
+1. Introduction
+Welcome to DaduTag. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application DaduTag (the "App").
+
+Please read this policy carefully. If you disagree with its terms, please discontinue use of the App.
+
+2. Information We Collect
+2.1 Information You Provide
+Account Information: Email address and password when you register or sign in.
+Tag Data: Names, labels, icons, and notes you assign to your tracking tags.
+2.2 Information Collected Automatically
+Location Data: Precise GPS coordinates of your registered tags. Location data is collected continuously in the background when the App is active and tracking is enabled.
+Device Information: Device type, operating system version, and unique device identifiers for app functionality and diagnostics.
+Usage Data: Feature interactions, screen views, and app session data to improve performance.
+2.3 Information from Third-Party Services
+Firebase (Google): We use Google Firebase for authentication, cloud data storage (Firestore), and analytics. Firebase may collect certain device and usage information per its own privacy policy. See Google's Privacy Policy.
+3. How We Use Your Information
+We use the information we collect to:
+
+Provide core features — display real-time tag locations, location history, and alert notifications.
+Send alerts and notifications — notify you when a tag enters or exits a defined zone, or when a tag is inactive.
+Authenticate your identity — manage secure login and account access.
+Improve the App — analyze usage patterns to fix bugs and improve features.
+Comply with legal obligations — respond to lawful requests from authorities where required.
+We do not sell your personal information to third parties.
+
+4. Location Data
+Location is the core function of DaduTag. We collect location data:
+
+From your tags — GPS coordinates are recorded and stored to show current position and history.
+Background location — If you enable background tracking, location updates continue when the App is not in the foreground.
+You may disable location permissions at any time in your device Settings → Privacy → Location Services → DaduTag, but this will limit core app functionality.
+
+Location history is retained for up to 90 days by default. You may delete your location history at any time from within the App.
+
+5. Data Storage and Security
+All data is stored securely using Google Firebase Firestore with industry-standard encryption in transit (TLS) and at rest.
+Access to your data is protected by Firebase Authentication.
+We implement technical and organizational measures to protect your data, but no method of transmission over the internet is 100% secure.
+We encourage you to use a strong, unique password and to keep your login credentials confidential.
+6. Data Sharing and Disclosure
+We do not sell or rent your data. We may share data only in these limited circumstances:
+
+Recipient	Purpose
+Google Firebase	Authentication, database, and analytics infrastructure
+Apple (iOS)	Push notification delivery
+Legal authorities	If required by law, court order, or to protect rights and safety
+7. Children's Privacy
+DaduTag is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal data, please contact us and we will delete it promptly.
+
+8. Your Rights and Choices
+Depending on your jurisdiction, you may have the right to:
+
+Access the personal data we hold about you.
+Correct inaccurate or incomplete data.
+Delete your account and associated data.
+Export your location history data.
+Withdraw consent for background location tracking at any time.
+To exercise any of these rights, contact us at the email below. We will respond within 30 days.
+
+9. Data Retention
+Data Type	Retention Period
+Account information	Until account deletion
+Tag and location history	90 days (configurable)
+Notification logs	30 days
+Usage analytics	12 months (aggregated)
+You may delete your account and all associated data at any time from Settings → Account → Delete Account within the App.
+
+10. Third-Party Links
+The App may contain links to third-party websites or services. We are not responsible for the privacy practices of those third parties and encourage you to review their privacy policies.
+
+11. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of significant changes by:
+
+Sending a push notification through the App.
+Displaying a prominent notice within the App on next launch.
+Continued use of the App after changes take effect constitutes acceptance of the updated policy.
+
+12. Contact Us
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
+
+DaduTag Support 📧 dadumohan86@gmail.com 🌐 www.dadutag.com/privacy
+
+This privacy policy was written for DaduTag, a GPS tag tracking application for iOS.
+
